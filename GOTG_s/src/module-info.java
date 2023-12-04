@@ -1,0 +1,2 @@
+module GOTG_s {
+}
